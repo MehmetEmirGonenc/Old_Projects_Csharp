@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{55D2330C-5424-4506-928E-BD12B7AB4CEC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Barkod_Uygulaması</RootNamespace>
+    <AssemblyName>Barkod Uygulaması</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MessagingToolkit.QRCode.1.3.0\lib\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zen.Barcode.Rendering.Framework.3.1.10729.1\lib\Zen.Barcode.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arayüzler\Giriş\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Giriş\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Anamenu\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Anamenu\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Anamenu\Ürün Seç\Secim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Anamenu\Ürün Seç\Secim.Designer.cs">
+      <DependentUpon>Secim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ayarlar\ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ayarlar\ayarlar.Designer.cs">
+      <DependentUpon>ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ayarlar\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ayarlar\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ekstralar\barkod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ekstralar\barkod.Designer.cs">
+      <DependentUpon>barkod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ekstralar\QR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ekstralar\QR.Designer.cs">
+      <DependentUpon>QR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Stok\Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Stok\Ekle.Designer.cs">
+      <DependentUpon>Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Stok\Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Stok\Sil.Designer.cs">
+      <DependentUpon>Sil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Stok\Stok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Stok\Stok.Designer.cs">
+      <DependentUpon>Stok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ürünler\Uekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ürünler\Uekle.Designer.cs">
+      <DependentUpon>Uekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ürünler\Usil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Ürünler\Usil.Designer.cs">
+      <DependentUpon>Usil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Raporlar\Ürün_Raporları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Raporlar\Ürün_Raporları.Designer.cs">
+      <DependentUpon>Ürün_Raporları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Raporlar\Stok_Raporları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arayüzler\Kullanıcı Arabirimi\Raporlar\Stok_Raporları.Designer.cs">
+      <DependentUpon>Stok_Raporları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Arayüzler\Giriş\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Anamenu\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Anamenu\Ürün Seç\Secim.resx">
+      <DependentUpon>Secim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Ayarlar\ayarlar.resx">
+      <DependentUpon>ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Ayarlar\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Ekstralar\barkod.resx">
+      <DependentUpon>barkod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Ekstralar\QR.resx">
+      <DependentUpon>QR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Raporlar\Stok_Raporları.resx">
+      <DependentUpon>Stok_Raporları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Stok\Ekle.resx">
+      <DependentUpon>Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Stok\Sil.resx">
+      <DependentUpon>Sil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Stok\Stok.resx">
+      <DependentUpon>Stok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Ürünler\Uekle.resx">
+      <DependentUpon>Uekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Ürünler\Usil.resx">
+      <DependentUpon>Usil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arayüzler\Kullanıcı Arabirimi\Raporlar\Ürün_Raporları.resx">
+      <DependentUpon>Ürün_Raporları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Veritabanı\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\001-factory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\002-factory-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\003-plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\004-minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\005-info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\006-question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\007-seo-report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\008-exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\009-logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\010-unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\iconfinder_product_49608.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\iconfinder_refresh_1608809 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\iconfinder_refresh_1608809.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\iconfinder_refresh_1608809_25x25.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\peribaca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\peribaca_1245x700.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\sales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\urgup-three-beauties.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\QR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\Settings_Gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\408409-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\3018576-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\adasd_64x64.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Simgeler\dasd_64x64.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
