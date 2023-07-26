@@ -1,0 +1,13 @@
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\bin\Debug\Kütüphane.xml
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.vbprojAssemblyReference.cache
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Resources.resources
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.vbproj.GenerateResource.cache
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.vbproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.xml
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Mehmet Emir\source\repos\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Ekle.resources
