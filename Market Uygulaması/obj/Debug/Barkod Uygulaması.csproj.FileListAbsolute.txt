@@ -1,0 +1,26 @@
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\bin\Debug\Barkod Uygulaması.exe.config
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\bin\Debug\Barkod Uygulaması.exe
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\bin\Debug\Barkod Uygulaması.pdb
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Form1.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod Uygulaması.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod Uygulaması.exe
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod Uygulaması.pdb
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Form2.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Form4.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Form3.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Anamenu.Ürün_Seç.Secim.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Stok.Sil.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Stok.Stok.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Ürünler.Uekle.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Ürünler.Usil.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Ürün_Raporları.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Stok_Raporları.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Ekstralar.QR.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod Uygulaması.csproj.CopyComplete
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Ekstralar.barkodolustur.resources
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod Uygulaması.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\Barkod Uygulaması\Barkod Uygulaması\obj\Debug\Barkod_Uygulaması.Arayüzler.Kullanıcı_Arabirimi.Ayarlar.ayarlar.resources
