@@ -1,0 +1,37 @@
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\bin\Debug\Hotel Managament.exe.config
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\bin\Debug\Hotel Managament.exe
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\bin\Debug\Hotel Managament.pdb
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Chaptcha.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Entry.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Main_Menu.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Properties.Resources.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.exe
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.pdb
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.CoustomersList.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.StaffAdd.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.StaffList.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.StaffEdit.resources
+C:\Users\mehme\source\repos\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Users.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\bin\Debug\Hotel Managament.exe.config
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\bin\Debug\Hotel Managament.exe
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\bin\Debug\Hotel Managament.pdb
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.AssemblyReference.cache
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.SuggestedBindingRedirects.cache
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.EditCoustomer.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.StaffEdit.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.CoustomersList.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Chaptcha.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Entry.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Main_Menu.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.StaffList.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Properties.Resources.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.StaffAdd.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel_Managament.Users.resources
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.GenerateResource.cache
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.csproj.CoreCompileInputs.cache
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.exe
+D:\ForDeveloping\My Projects\C# Projects\Hotel Managament\Hotel Managament\obj\Debug\Hotel Managament.pdb
