@@ -1,0 +1,11 @@
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\bin\Debug\SQL Database Example New.exe.config
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\bin\Debug\SQL Database Example New.exe
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\bin\Debug\SQL Database Example New.pdb
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL Database Example New.csproj.AssemblyReference.cache
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL Database Example New.csproj.SuggestedBindingRedirects.cache
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL_Database_Example_New.Form1.resources
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL_Database_Example_New.Properties.Resources.resources
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL Database Example New.csproj.GenerateResource.cache
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL Database Example New.csproj.CoreCompileInputs.cache
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL Database Example New.exe
+Y:\For Developing\My Projects\C# Projects\SQL Database Example\SQL Database Example New\SQL Database Example New\obj\Debug\SQL Database Example New.pdb
